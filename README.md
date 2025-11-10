@@ -11,12 +11,13 @@ Bubble Sort (Ordenamiento Burbuja)
 
 Insertion Sort (Ordenamiento por Inserción)
 
-Quick Sort
+Quick Sort (Ordenamiento Rápido)
 
-Merge Sort
+Merge Sort (Ordenamiento Mezclado)
 
 💻 Tecnologías
-C#
 
+C#
 .NET (Plataforma de desarrollo)
+
 
