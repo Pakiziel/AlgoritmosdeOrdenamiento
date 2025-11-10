@@ -1,0 +1,8 @@
+# Archivos y carpetas de compilación
+**/bin/
+**/obj/
+
+# Archivos de usuario de Visual Studio
+*.suo
+*.user
+*.sln.doc
