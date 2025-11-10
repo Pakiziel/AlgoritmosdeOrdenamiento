@@ -1,8 +1,10 @@
-# Archivos y carpetas de compilación
+# Cache de Visual Studio (¡Este es tu error!)
+.vs/
+
+# Carpetas de compilación
 **/bin/
 **/obj/
 
-# Archivos de usuario de Visual Studio
+# Archivos de usuario
 *.suo
 *.user
-*.sln.doc
